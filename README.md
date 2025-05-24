@@ -1,7 +1,6 @@
 ###﻿# Beer And Big Brother CF:
 
 
-Sure! Here's a detailed explanation of your C++ code:
 
 ---
 
