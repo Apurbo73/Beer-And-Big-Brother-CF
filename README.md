@@ -58,4 +58,3 @@ Think of:
 * `b` as a larger animal growing 2x per year.
 * The program finds how many years it takes for the small one to outgrow the larger one.
 
-Let me know if you'd like a [visual growth comparison chart](f), [step-by-step simulation](f), or [interactive version](f).
